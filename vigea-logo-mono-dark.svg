@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" role="img" aria-label="Logo VIGÉA monochrome sombre">
+  <title>VIGÉA — monochrome sombre</title>
+  <defs>
+    <style>
+      .wm { font-family: 'Nunito', 'Nunito Sans', system-ui, sans-serif; font-weight: 900; letter-spacing: -1.5px; }
+      .tag { font-family: 'Nunito', 'Nunito Sans', system-ui, sans-serif; font-weight: 600; letter-spacing: 0.5px; }
+    </style>
+  </defs>
+  <g transform="translate(14,18)">
+    <path d="M 8 96 Q 56 -14 104 96" fill="none" stroke="#060B1F" stroke-width="14" stroke-linecap="round"/>
+    <path d="M 32 96 Q 56 40 80 96" fill="none" stroke="#060B1F" stroke-width="10" stroke-linecap="round" opacity="0.75"/>
+    <circle cx="56" cy="92" r="9" fill="#060B1F"/>
+  </g>
+  <g transform="translate(146,0)">
+    <path d="M 154 28 L 176 14" stroke="#060B1F" stroke-width="8" stroke-linecap="round"/>
+    <text x="0" y="88" class="wm" font-size="72" fill="#060B1F">VIGEA</text>
+    <text x="2" y="118" class="tag" font-size="15" fill="#060B1F">Prendre soin de ceux qui soignent.</text>
+  </g>
+</svg>
